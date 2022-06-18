@@ -52,7 +52,7 @@ li
 
 .location
 {
-    background-image: url("teacozy/images/locations.jpeg");
+    background-image: url("/images/locations.jpeg");
     height: 500px;
     width: 1200px;
     margin: auto;
