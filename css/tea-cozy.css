@@ -35,7 +35,7 @@ header
 ul
 {
     list-style-type: none;
-    text-decoration: underline;
+    text-decoration: none;
     display: flex;
 }
 
