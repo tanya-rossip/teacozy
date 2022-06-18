@@ -166,3 +166,61 @@ footer p
     margin-left: 20px;
 }
 
+@media screen and (max-width:600px) 
+{
+.headings
+{width: auto;
+    background-color: black;
+    height: auto;
+    position: absolute;
+    padding: 0;
+    top: 200px;
+}
+h2 
+{
+    font-size: 20px;
+}
+h4 
+{
+    font-size:8px;
+    margin-top:2px;
+
+}
+.address div
+{
+    height: auto;
+    width: 130px;
+    background-color: black;
+    margin:10px;
+    font-size: 10px;
+}
+.address 
+{
+    margin-left:0;
+    justify-content: center;
+    margin-bottom: 60px;
+
+}
+
+.location
+{
+    width:auto;
+}
+nav ul 
+{
+    position: absolute;
+    left: 160px;
+    top:13px;
+    font-size:15px;
+}
+nav ul li
+{
+margin: 10px;
+
+}
+.mission img 
+{
+    height: auto;
+    width: 100%;
+}
+}
